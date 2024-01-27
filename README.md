@@ -34,4 +34,4 @@ This new assignment consists of two technical products. I submited the following
      - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
        - Considered how many days elapsed on Earth in the time that Mars circles the Sun once.
        - Visually estimated the result by plotting the daily minimum temperature.
-   6. Export the DataFrame to a CSV file.
+   6. Exported the DataFrame to a CSV file.
